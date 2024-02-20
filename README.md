@@ -1,5 +1,7 @@
 ## Olá, sejam bem-vindos!
-  Me chamo Isabele Vizoste, tenho 18 anos e sou natural da cidade de São Paulo, SP. Conclui minha jornada acadêmica como técnina em administração na Etec Ferraz de Vasconcelos, ambiente em que tive a oportunidade de desenvolver 
+
+Sou uma jovem recém formada como técnica em administração pela Etec Ferraz de Vasconcelos, ambiente em que desenvolvi conhecimentos relacionados a gestão de projetos e trabalho em equipe, competências fundamentais para meu desenvolvimento como profissional. Atualmente, sou estudante de programaçãom Front-End através de uma iniciativa da Ford Academy em parceria como o SENAI-SP, processo acadêmico que me permite adquirir conhecimentos práticos na área de computaçã'1o de sistemas, utilizando linguagens de programação
+
   
 
 
