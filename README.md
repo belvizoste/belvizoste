@@ -1,9 +1,9 @@
-### Hi there 👋
+## Olá, sejam bem-vindos!
+  Me chamo Isabele Vizoste, tenho 18 anos e sou natural da cidade de São Paulo, SP. Conclui minha jornada acadêmica como técnina em administração na Etec Ferraz de Vasconcelos, ambiente em que tive a oportunidade de desenvolver 
+  
 
-<!--
-**belvizoste/belvizoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
