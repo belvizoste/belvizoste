@@ -12,4 +12,4 @@ Sou uma jovem recém formada como técnica em administração pela Etec Ferraz d
   
 ### Formas de contato: 
 
-- 📫 **Email:** isabele.vizoste.m@gmail.com
+📫 **Email:** isabele.vizoste.m@gmail.com
