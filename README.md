@@ -5,10 +5,11 @@ Sou uma jovem recém formada como técnica em administração pela Etec Ferraz d
 ### Linguagens aprendidas: 
 * Markdown(linguagem de marcação)
 * HTML (linguagem de programação)
-* CSS (Linguagem de estilização)
+* CSS (linguagem de estilização)
+* JavaScript (linguagem de programação estruturada)
 * PowerShell (terminal Windows)
-* Bash (Terminal Linux)
-* Git (Sistema de Controle de Versionamento)
+* Bash (terminal Linux)
+* Git (sistema de Controle de Versionamento)
   
 ### Formas de contato: 
 
